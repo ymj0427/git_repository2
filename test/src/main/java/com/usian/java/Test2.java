@@ -9,10 +9,5 @@ public class Test2 {
         System.out.println("1.0版本");
     }
 
-    /**
-     *
-     * 主分支大哥出了BUG，但是由于解决BUG的时间不充足，大哥继续工作
-     * 由小弟在幕后帮忙改BUG，等修复完善，再与大哥合并，干掉BUG
-     *
-     */
+    
 }
